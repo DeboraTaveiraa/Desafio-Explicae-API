@@ -4,12 +4,12 @@
 * Toda a codificação está inclusa no arquivo **App.vue**
 * Na pasta **services** está toda a **configuração da API usando AXIOS**
 
-## Rodando a aplicação
-> Instalar o gerenciador de pacotes yarn
+> Instalando as dependências, dentro da pasta **desafio** no prompt de comando
 ```
-npm install --global yarn
+yarn
 ```
-> Executar a aplicação dentro da pasta desafio
+
+> Executando a aplicação dentro da pasta desafio
 ```
 yarn serve
 ```
